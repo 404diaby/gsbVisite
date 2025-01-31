@@ -19,3 +19,21 @@ Cette application est idéale pour les visiteurs médicaux qui souhaitent organi
 ## À propos du projet
 
 Ce projet a été réalisé en groupe dans le cadre de mon BTS SIO (Services Informatiques aux Organisations). Il représente une application concrète des compétences acquises durant notre formation.
+
+
+
+## Identifiants de connexion
+
+Pour accéder à l'application, utilisez les identifiants suivants :
+
+- **Visiteur médical (vl)** :
+    - **Nom d'utilisateur** : vl
+    - **Mot de passe** : vl
+
+- **Visiteur médical (ad)** :
+    - **Nom d'utilisateur** : ad
+    - **Mot de passe** : ad
+
+- **Visiteur médical (tl)** :
+    - **Nom d'utilisateur** : tl
+    - **Mot de passe** : tl
